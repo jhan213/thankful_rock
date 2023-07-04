@@ -1,0 +1,16 @@
+{
+  "name": "youtube-vid-script",
+  "version": "1.0.0",
+  "description": "App that converts Youtube video link to script",
+  "main": "youtube.js",
+  "scripts": {
+    "start": "node youtube.js"
+  },
+  "author": "Jaewoo Han",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.0.0",
+    "puppeteer": "^15.2.0"
+  },
+  "type": "module"
+}

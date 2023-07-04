@@ -1,4 +1,4 @@
-# Youtube Transcript App
+# youtube-caption-scrape
 
 ## Description
 Converts a Youtube video to a text file compiled with the video's captions. The app runs through the terminal and was created with NodeJS. It scrapes the captions from the given link. 
